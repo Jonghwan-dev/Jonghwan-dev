@@ -16,6 +16,7 @@ I'm an IT-inerrant developer passionate about integrating deep learning with med
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?logo=matlab&logoColor=white&style=flat)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=flat)
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?logo=jupyter&logoColor=white&style=flat)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=flat)
 ![Colab](https://img.shields.io/badge/-Colab-F9AB00?logo=googlecolab&logoColor=white&style=flat)
 
@@ -47,8 +48,6 @@ I'm an IT-inerrant developer passionate about integrating deep learning with med
 ## 🚀 Projects & Contributions
 
 ### Notable Projects:
-- **[Medical Imaging AI](https://github.com/Jonghwan-dev/medical-imaging-ai)**: Leveraging deep learning for medical image analysis.
-- **[Fluid Dynamics Simulation](https://github.com/Jonghwan-dev/fluid-dynamics-simulation)**: Computational fluid dynamics simulations for medical applications.
 
 ### Recent Contributions:
 - Contributed to open-source TensorFlow projects.
