@@ -1,0 +1,4 @@
+- 👋  Hi, I’m @Jonghwan-dev, an IT-inerrant developer with a passion for exploring diverse technologies.  
+- 👀 I’m deeply interested in computer vision and its applications in medical imaging.  
+- 🌱 I’m currently diving into deep learning, enhancing my skills in AI-driven image processing and analysis.  
+- 📫 How to reach me kkk000121@sch.ac.kr
