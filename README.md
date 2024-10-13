@@ -44,18 +44,3 @@ I'm an IT-inerrant developer passionate about integrating deep learning with med
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonghwan-dev&layout=compact&theme=radical&langs_count=8)
 
 ---
-
-## 🚀 Projects & Contributions
-
-### Notable Projects:
-
-### Recent Contributions:
-- Contributed to open-source TensorFlow projects.
-- Developed innovative tools in the field of hemodynamic analysis.
-
----
-
-## 💡 Fun Fact
-I am a huge fan of integrating machine learning with real-world engineering problems, especially in the healthcare domain, and I love exploring new ways to optimize workflows and processes.
-
----
