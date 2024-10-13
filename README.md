@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Jonghwan Kim!
+# Greetings! 👋, I'm Jonghwan Kim!
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Jonghwan-dev)](https://github.com/Jonghwan-dev)
 
