@@ -1,6 +1,5 @@
 # Greetings! 👋, I'm Jonghwan Kim!
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Jonghwan-dev)(https://github.com/Jonghwan-dev)
 
 I'm an IT-inerrant developer passionate about integrating deep learning with medical imaging and fluid dynamics. My focus is on enhancing the synergy between advanced technology and healthcare, and I am continually pushing the boundaries of what AI and engineering can achieve.
 
