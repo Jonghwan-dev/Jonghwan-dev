@@ -54,7 +54,6 @@
 ---
 
 ## 📊 GitHub Stats  
-![Jonghwan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jonghwan-dev&show_icons=true&theme=radical&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonghwan-dev&layout=compact&theme=radical&langs_count=8)
+...
 
 ---
