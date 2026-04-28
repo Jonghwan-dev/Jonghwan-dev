@@ -39,12 +39,9 @@
 
 ## 📬 Contact
 
-<div align="center">
 
 [![Blog](https://img.shields.io/badge/Blog-GitHub%20Pages-181717?style=for-the-badge&logo=githubpages&logoColor=white)](https://jonghwan-dev.github.io/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kjh00012120@gmail.com)
-
-</div>
 
 ---
 
@@ -52,16 +49,18 @@
 
 <div align="center">
 
+<!-- Trophy -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=Jonghwan-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+<!-- Activity Graph -->
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jonghwan-dev&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <!-- Stats Card + Streak Side by Side -->
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Jonghwan-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
 <!-- Top Languages -->
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonghwan-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 
-<!-- Activity Graph -->
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jonghwan-dev&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<!-- Trophy -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=Jonghwan-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
