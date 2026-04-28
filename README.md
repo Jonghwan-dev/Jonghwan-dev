@@ -1,59 +1,68 @@
 <div align="center">
 
-# Greetings! 👋, I'm Jonghwan Kim!  
-[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FJonghwan-dev?color=blue&label=hits&size=medium)](https://myhits.vercel.app)
+<!-- Typing SVG 타이핑 애니메이션 -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4F8EF7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Jonghwan+Kim+👋;Medical+Imaging+%7C+AI+Researcher;Explainable+%26+Generalizable+AI)](https://git.io/typing-svg)
+
+<!-- 방문자 카운터 -->
+[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FJonghwan-dev?color=4F8EF7&label=profile+views&size=medium)](https://myhits.vercel.app)
 
 </div>
 
 ---
 
-* I'm a research scientist focused on medical imaging and clinically meaningful computer vision.  
-* I develop explainable and generalizable AI systems for prognosis and clinical decision support.  
-* My future research aims to integrate imaging and LLMs for multimodal understanding of patient outcomes.  
+## About Me
+
+- Research scientist specializing in **medical imaging** and clinically meaningful computer vision
+- Building **explainable & generalizable AI** for prognosis and clinical decision support
+- Future goal: multimodal integration of **imaging + LLMs** for patient outcome understanding
 
 ---
 
-## ⚡ Skills
+## 🛠️ Tech Stack
 
-### - Programming Languages  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?logo=matlab&logoColor=white&style=flat)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=flat)
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+### AI / Deep Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Weights & Biases](https://img.shields.io/badge/W%26B-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=white)
 
-### - AI / Deep Learning  
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat)
-![Weights & Biases](https://img.shields.io/badge/-W%26B-FFBE00?logo=weightsandbiases&logoColor=white&style=flat)
-
-
-### - Development Environment
-![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?logo=jupyter&logoColor=white&style=flat)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=flat)
-![Google Colab](https://img.shields.io/badge/-Colab-F9AB00?logo=googlecolab&logoColor=white&style=flat)
-
-
-### - Collaboration Tools  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
-![Slack](https://img.shields.io/badge/-Slack-4A154B?logo=slack&logoColor=white&style=flat)
-![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white&style=flat)
-![Discord](https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white&style=flat)
-
-
-### - Engineering Software
-![ANSYS Fluent](https://img.shields.io/badge/-ANSYS%20Fluent-FF0000?logo=ansys&logoColor=white&style=flat)
-![Autodesk Inventor](https://img.shields.io/badge/-Autodesk%20Inventor-0696D7?logo=autodesk&logoColor=white&style=flat)
-![CATIA](https://img.shields.io/badge/-CATIA-052558?logo=dassaultsystemes&logoColor=white&style=flat)
+### Tools & Collaboration
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 ---
 
-## How to reach me  
-[![GitHub Pages](https://img.shields.io/badge/Blog-GitHub%20Pages-blue?logo=githubpages&logoColor=white&style=flat)](https://jonghwan-dev.github.io/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=flat)](mailto:kjh00012120@gmail.com)
+## 📊 GitHub Stats
+
+<div align="center">
+
+<!-- Stats Card + Streak Side by Side -->
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Jonghwan-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=Jonghwan-dev&theme=tokyonight&hide_border=true" />
+
+<!-- Top Languages -->
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonghwan-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+
+<!-- Activity Graph -->
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jonghwan-dev&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<!-- Trophy -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=Jonghwan-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 
-## 📊 GitHub Stats  
-...
+## 📬 Contact
 
----
+<div align="center">
+
+[![Blog](https://img.shields.io/badge/Blog-GitHub%20Pages-181717?style=for-the-badge&logo=githubpages&logoColor=white)](https://jonghwan-dev.github.io/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kjh00012120@gmail.com)
+
+</div>
