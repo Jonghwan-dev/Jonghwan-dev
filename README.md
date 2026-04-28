@@ -37,13 +37,23 @@
 
 ---
 
+## 📬 Contact
+
+<div align="center">
+
+[![Blog](https://img.shields.io/badge/Blog-GitHub%20Pages-181717?style=for-the-badge&logo=githubpages&logoColor=white)](https://jonghwan-dev.github.io/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kjh00012120@gmail.com)
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
 <!-- Stats Card + Streak Side by Side -->
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Jonghwan-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=Jonghwan-dev&theme=tokyonight&hide_border=true" />
 
 <!-- Top Languages -->
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonghwan-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
@@ -53,16 +63,5 @@
 
 <!-- Trophy -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=Jonghwan-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📬 Contact
-
-<div align="center">
-
-[![Blog](https://img.shields.io/badge/Blog-GitHub%20Pages-181717?style=for-the-badge&logo=githubpages&logoColor=white)](https://jonghwan-dev.github.io/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kjh00012120@gmail.com)
 
 </div>
